@@ -20,7 +20,6 @@
 				height: 100%;
 				position: relative;
 			}
-
 			.form {
 				flex-wrap: wrap;
 				display: flex;
@@ -32,18 +31,14 @@
 			.result_form_ex {
 				align-content: flex-start;
 			}
-
 			.form_item {
 				position: relative;
 				padding: 2px;
 			}
-
 			.input {
 				padding: 0;
-
 				width: 120px;
 				height: 30px;
-
 				border: 0;
 				border-radius: 4px;
 			}
@@ -56,7 +51,6 @@
 				
 				background-color: #4478ff;
 				color: white;
-
 				border: 0;
 				border-radius: 4px;
 			}
